@@ -14,9 +14,9 @@ export function Header() {
         showHeader ? "translate-y-0" : "-translate-y-full"
       }`}
       style={{
-        backgroundColor: "rgba(14,30,63,0.75)",
+        backgroundColor: "rgba(14,30,63,0.92)",
         borderColor: "rgba(255,255,255,0.06)",
-        boxShadow: "0 8px 24px rgba(14,30,63,0.35)",
+        boxShadow: "0 8px 24px rgba(14,30,63,0.45)",
       }}
     >
       <div className="w-full px-10 sm:px-12 lg:px-14 mx-0">
